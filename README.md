@@ -1,2 +1,1 @@
-# project3
-dicee
+# dice_game_starting_files
